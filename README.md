@@ -8,8 +8,6 @@
 - ✉️ &nbsp;  You can shoot me an email at cansubozkurtt4@mail.com! I'll try to respond as soon as I can.\
 - 🌱 I’m currently learning Sprin Technologies, Node JS, MEAN & MERN
 
-<img alt="Coding" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right"/>
-
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)&nbsp;
