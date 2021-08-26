@@ -6,7 +6,7 @@
 - 🎓 &nbsp; I am currently a senior student at the Department of Computer Enginnering at Süleyman Demirel University.
 - 🌱 &nbsp; I'm on my way to become a backend and fullstack developer.\
 - ✉️ &nbsp;  You can shoot me an email at cansubozkurtt4@mail.com! I'll try to respond as soon as I can.\
-- 🌱 I’m currently learning Sprin Technologies, Node JS, MEAN & MERN
+- 🌱 I’m currently learning Java&Spring Technologies, Node.js, MEAN & MERN
 
 
 ### 🛠 &nbsp;Tech Stack
